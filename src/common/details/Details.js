@@ -74,7 +74,7 @@ function Details(props) {
       </>
     );
   } else {
-    return <button onClick={router.goBack}>ERROR GO BACK TO MAIN PAGE</button>;
+    return null;
   }
 }
 
