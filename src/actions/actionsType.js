@@ -1,0 +1,9 @@
+export const SEARCH_BTN = "SEARCH_BTN";
+export const RESET_BTN = "RESET_BTN";
+export const FETCH_HEROES = "FETCH_HEROES";
+export const SHOW_LOADER = "SHOW_LOADER";
+export const HIDE_LOADER = "HIDE_LOADER";
+export const NOT_FOUND = "NOT_FOUND";
+export const SEARCH_HEROES_LIST = "SEARCH_HEROES_LISTy";
+export const DETAILS = "DETAILS";
+export const ERROR = "ERROR";

@@ -1,0 +1,14 @@
+.logo {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+.logo__img {
+  width: 80px;
+}
+
+.logo__text {
+  padding-left: 20px;
+  font-size: 2em;
+  color: rgba(30, 29, 31, 0.809);
+}

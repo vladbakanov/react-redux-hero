@@ -1,0 +1,25 @@
+.search {
+  margin-top: 20px;
+  display: flex;
+  min-height: 150xp;
+  justify-content: space-between;
+  align-items: center;
+}
+.search__text {
+  font-size: 1.5em;
+  padding-left: 20px;
+  flex-grow: 1;
+  font-weight: 900;
+}
+.search__input {
+  flex-grow: 2;
+}
+.btn__find {
+  flex-grow: 1;
+  margin: 0 10px;
+  cursor: pointer;
+}
+.btn__reset {
+  flex-grow: 1;
+  cursor: pointer;
+}

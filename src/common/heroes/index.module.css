@@ -1,0 +1,9 @@
+.heroes__list {
+  max-width: 1100px;
+  margin: 0 auto;
+  margin-top: 50px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+}

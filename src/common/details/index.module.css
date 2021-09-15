@@ -1,0 +1,35 @@
+.details_wrapper {
+  background-color: rgba(31, 6, 141, 0.453);
+  padding: 20px;
+}
+
+.details_header {
+  display: flex;
+}
+.details_text {
+  font-weight: 900;
+  font-size: 2em;
+  margin-right: 50px;
+}
+.details_mainInfo {
+  margin-top: 20px;
+  display: flex;
+  line-height: 3em;
+}
+.details_mainInfo img {
+  width: 400px;
+  height: 200;
+  margin-right: 40px;
+}
+
+.stats {
+  display: flex;
+  background-color: rgb(241, 170, 62);
+  padding: 20px;
+}
+.stats_name {
+  flex: 2;
+}
+.stats_detail {
+  flex: 1;
+}
